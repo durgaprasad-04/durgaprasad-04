@@ -1,6 +1,6 @@
-# 💫 About Me:
-I'm currently Studying .
-
+<h1 align="center">Hi 👋, I'm Durgaprasad</h1>
+<h3 align="center">An undergraduate student with a never ending love for programming and burning passion for Web development. I love talking to new people and discuss about new ideas. I have recently started with Web development and loving it since.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/durgaprasad__04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/durgaprasad-dp04) 
