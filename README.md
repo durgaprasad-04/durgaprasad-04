@@ -1,4 +1,4 @@
-# About me: Hi 👋, I'm Durgaprasad
+ Hi 👋, I'm Durgaprasad
 An undergraduate student with a never ending love for programming and burning passion for Web development. I love talking to new people and discuss about new ideas. I have recently started with Web development and loving it since.
 
 ## 🌐 Socials:
