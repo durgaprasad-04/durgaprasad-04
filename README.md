@@ -1,5 +1,5 @@
-<h1 align="center">Hiii 👋, I'm Durgaprasad</h1>
-<h3 align="center">An undergraduate student with unending passion for programming and a burning love for web development. Currently on a mission to transform data into actionable insights. I love talking to new people and discuss about new ideas. I have recently started with Web development and loving it since.</h3>
+<h1 align="center">Hello 👋, I'm Durgaprasad</h1>
+<h3 align="center">Undergraduate student passionate about programming and deeply enthusiastic about web development. Currently exploring ways to turn data into actionable insights. I enjoy connecting with new people and exchanging ideas. Web development has been my creative and technical outlet since I started—and I’ve been loving the journey ever since.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgaprasad-04&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad-04" /> </p>
 
