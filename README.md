@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **dpenter17@gmail.com**
+- 📫 How to reach me **durgaprasaddp599@gmail.com**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
