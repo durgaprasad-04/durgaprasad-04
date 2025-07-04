@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Durgaprasad</h1>
-<h3 align="center">Graduate student passionate about programming and deeply enthusiastic about web development. Currently exploring ways to turn data into actionable insights. I enjoy connecting with new people and exchanging ideas. Web development has been my creative and technical outlet since I started—and I’ve been loving the journey ever since.</h3>
+<h3 align="center">I'm a passionate and self-driven developer with a strong interest in building real-world full-stack applications, particularly using the MERN stack (MongoDB, Express.js, React, Node.js) to create fast, scalable, and user-friendly web solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgaprasad-04&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad-04" /> </p>
 
